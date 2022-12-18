@@ -1,5 +1,5 @@
 # Nest Telegram bot app 
-Nest, Telegraf
+Nest, Telegraf 
 
 ## Available scripts to start application
 
